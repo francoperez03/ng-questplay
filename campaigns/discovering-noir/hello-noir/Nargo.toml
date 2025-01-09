@@ -1,0 +1,8 @@
+[package]
+name = "hello_noir"
+type = "bin"
+authors = [""]
+compiler_version = "0.31.0"
+version = "1.2.0"
+
+[dependencies]
